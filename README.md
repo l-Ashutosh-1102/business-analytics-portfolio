@@ -1,18 +1,13 @@
-# Coursework-Project
-Business analytics coursework on customer segmentation using transactional data
-# Customer Segmentation Coursework
+# Business Analytics Portfolio
+This repository contains selected MSc Business Analytics projects focused on customer segmentation, churn prediction, social media brand analytics, machine learning, and business decision-making.
 
-## Overview
-This project analyses customer transaction data to build customer segments for marketing decision-making.
+## Projects
 
-## Objective
-The aim is to identify meaningful customer groups using data preparation, feature engineering, PCA, and clustering.
+| Project | Business Focus | Methods Used |
 
-## Files
-- `report.pdf` – final coursework report
-- `notebook.ipynb` – analysis notebook
-- `segmented_customers.csv` – customer-to-segment mapping
-- `README.md` – project summary
+| Customer Segmentation | Retail customer profiling | Feature engineering, PCA, K-Means clustering | 
+| FoodCorp Churn Prediction | Churn risk prediction | SQL feature engineering, logistic regression, temporal validation |
+| Social Media Brand Analysis | Netflix vs Amazon Prime Video brand analytics | Sentiment analysis, topic modelling, influencer recommendation | 
 
 ## Methods Used
 - Data cleaning
@@ -20,9 +15,10 @@ The aim is to identify meaningful customer groups using data preparation, featur
 - Exploratory data analysis
 - PCA
 - K-means clustering
+- Sentiment Analysis
+- Topic Modelling
+- Business Reporting
 
-## Key Output
-The project produces 5–7 customer segments and recommends target groups for marketing action.
 
 ## Notes
 This repository is for academic portfolio purposes.
