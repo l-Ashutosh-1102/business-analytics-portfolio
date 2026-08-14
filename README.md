@@ -1,25 +1,24 @@
-# Business Analytics Portfolio
-This repository contains selected MSc Business Analytics projects focused on customer segmentation, churn prediction, social media brand analytics, machine learning, and business decision-making.
+# Hi, I'm Ashutosh Shinde
 
-## Projects
+MSc Business Analytics student at the University of Nottingham, focused on business analytics, customer insight, predictive modelling and data-driven decision-making.
 
-| Project | Business Focus | Methods Used |
+## Core Skills
 
-| Customer Segmentation | Retail customer profiling | Feature engineering, PCA, K-Means clustering | 
-| FoodCorp Churn Prediction | Churn risk prediction | SQL feature engineering, logistic regression, temporal validation |
-| Social Media Brand Analysis | Netflix vs Amazon Prime Video brand analytics | Sentiment analysis, topic modelling, influencer recommendation | 
+Python · SQL · Pandas · Scikit-learn · Machine Learning · Customer Analytics · Churn Prediction · NLP · Business Reporting
 
-## Methods Used
-- Data cleaning
-- Feature engineering
-- Exploratory data analysis
-- PCA
-- K-means clustering
-- Sentiment Analysis
-- Topic Modelling
-- Business Reporting
+## Featured Analytics Projects
 
+| Project | Focus | Tools |
+|---|---|---|
+| FoodCorp Churn Prediction | Predicting churn using temporal behavioural features | SQL, Python, Logistic Regression |
+| Customer Segmentation | Retail customer profiling and targeting | Python, PCA, K-Means |
+| Social Media Brand Analytics | Netflix vs Amazon Prime Video brand perception | Python, VADER, TF-IDF, NMF |
+| Term-Deposit Campaign Targeting | Banking response prediction and campaign prioritisation | Python, Random Forest |
 
-## Notes
-This repository is for academic portfolio purposes.
-Sensitive/restricted raw data has not been uploaded.
+## Portfolio
+
+[View my Business Analytics Portfolio](https://github.com/l-Ashutosh-1102/business-analytics-portfolio)
+
+## Currently targeting
+
+Graduate and internship roles in business analytics, data analytics, customer insight and analytics consulting.
