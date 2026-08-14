@@ -1,24 +1,22 @@
-# Hi, I'm Ashutosh Shinde
+# Business Analytics Portfolio
 
-MSc Business Analytics student at the University of Nottingham, focused on business analytics, customer insight, predictive modelling and data-driven decision-making.
+A curated portfolio of applied analytics projects covering customer segmentation, churn prediction, social media brand analytics and predictive modelling.
 
-## Core Skills
+These projects demonstrate practical use of Python, SQL, machine learning, statistical analysis and business reporting to translate data into decision-ready insights.
 
-Python · SQL · Pandas · Scikit-learn · Machine Learning · Customer Analytics · Churn Prediction · NLP · Business Reporting
+## Featured Projects
 
-## Featured Analytics Projects
+| Project | Business Problem | Methods Used | Link |
+|---|---|---|---|
+| Customer Segmentation | Identify retail customer groups for targeted marketing | PCA, K-Means, feature engineering | [View Project](projects/01-customer-segmentation) |
+| FoodCorp Churn Prediction | Predict customers at risk of churn | SQL feature engineering, temporal validation, Logistic Regression | [View Project](projects/02-foodcorp-churn-prediction) |
+| Social Media Brand Analytics | Compare brand perception across streaming platforms | VADER sentiment, TF-IDF, NMF topic modelling | [View Project](projects/03-social-media-brand-analysis) |
+| Term-Deposit Campaign Targeting | Prioritise high-probability banking prospects | Random Forest, classification, probability ranking | [View Project](projects/04-term-deposit-campaign-targeting) |
 
-| Project | Focus | Tools |
-|---|---|---|
-| FoodCorp Churn Prediction | Predicting churn using temporal behavioural features | SQL, Python, Logistic Regression |
-| Customer Segmentation | Retail customer profiling and targeting | Python, PCA, K-Means |
-| Social Media Brand Analytics | Netflix vs Amazon Prime Video brand perception | Python, VADER, TF-IDF, NMF |
-| Term-Deposit Campaign Targeting | Banking response prediction and campaign prioritisation | Python, Random Forest |
+## Technical Skills Demonstrated
 
-## Portfolio
+Python · SQL · Pandas · Scikit-learn · Machine Learning · NLP · Clustering · Classification · Churn Prediction · Business Reporting
 
-[View my Business Analytics Portfolio](https://github.com/l-Ashutosh-1102/business-analytics-portfolio)
+## Data Notice
 
-## Currently targeting
-
-Graduate and internship roles in business analytics, data analytics, customer insight and analytics consulting.
+Raw datasets are not included because some projects were completed using academic or restricted datasets. Each project includes a notebook, report and methodology summary for portfolio review.
