@@ -1,22 +1,22 @@
 # Business Analytics Portfolio
 
-A curated portfolio of applied analytics projects covering customer segmentation, churn prediction, social media brand analytics and predictive modelling.
+A curated portfolio of applied analytics projects covering customer segmentation, churn prediction, social media analytics and predictive modelling.
 
-These projects demonstrate practical use of Python, SQL, machine learning, statistical analysis and business reporting to translate data into decision-ready insights.
+These projects demonstrate practical use of Python, SQL, machine learning, customer analytics and business reporting to translate data into decision-ready insights.
 
 ## Featured Projects
 
 | Project | Business Problem | Methods Used | Link |
 |---|---|---|---|
-| Customer Segmentation | Identify retail customer groups for targeted marketing | PCA, K-Means, feature engineering | [View Project](projects/01-customer-segmentation) |
-| FoodCorp Churn Prediction | Predict customers at risk of churn | SQL feature engineering, temporal validation, Logistic Regression | [View Project](projects/02-foodcorp-churn-prediction) |
-| Social Media Brand Analytics | Compare brand perception across streaming platforms | VADER sentiment, TF-IDF, NMF topic modelling | [View Project](projects/03-social-media-brand-analysis) |
-| Term-Deposit Campaign Targeting | Prioritise high-probability banking prospects | Random Forest, classification, probability ranking | [View Project](projects/04-term-deposit-campaign-targeting) |
+| Customer Churn Prediction | Identify customers at risk of disengagement | SQL, Temporal Validation, Logistic Regression | [View Project](projects/02-foodcorp-churn-prediction) |
+| Customer Segmentation | Identify customer groups for targeted marketing | PCA, K-Means, Feature Engineering | [View Project](projects/01-customer-segmentation) |
+| Social Media Brand Analytics | Compare streaming brand perception | VADER, TF-IDF, NMF Topic Modelling | [View Project](projects/03-social-media-brand-analysis) |
+| Term-Deposit Campaign Targeting | Prioritise likely banking prospects | Random Forest, Classification, Probability Ranking | [View Project](projects/04-term-deposit-campaign-targeting) |
 
-## Technical Skills Demonstrated
+## Technical Skills
 
-Python · SQL · Pandas · Scikit-learn · Machine Learning · NLP · Clustering · Classification · Churn Prediction · Business Reporting
+Python • SQL • Excel • Power BI • Tableau • Pandas • Scikit-learn • Machine Learning • NLP • Customer Analytics • Business Reporting
 
 ## Data Notice
 
-Raw datasets are not included because some projects were completed using academic or restricted datasets. Each project includes a notebook, report and methodology summary for portfolio review.
+Raw datasets are not publicly included where they were supplied for academic use. Each project contains a portfolio-ready methodology summary, notebook and report.
