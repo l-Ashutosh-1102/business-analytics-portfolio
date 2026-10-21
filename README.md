@@ -12,6 +12,7 @@ These projects demonstrate practical use of Python, SQL, machine learning, custo
 | Customer Segmentation | Identify customer groups for targeted marketing | PCA, K-Means, Feature Engineering | [View Project](projects/01-customer-segmentation) |
 | Social Media Brand Analytics | Compare streaming brand perception | VADER, TF-IDF, NMF Topic Modelling | [View Project](projects/03-social-media-brand-analysis) |
 | Term-Deposit Campaign Targeting | Prioritise likely banking prospects | Random Forest, Classification, Probability Ranking | [View Project](projects/04-term-deposit-campaign-targeting) |
+| Customer Shopping Behaviour Analysis | Explain category spending, discounts and subscription patterns | Python, Databricks SQL, CTEs, Power BI | [View Project](projects/05-customer-shopping-behavior) |
 
 ## Technical Skills
 
