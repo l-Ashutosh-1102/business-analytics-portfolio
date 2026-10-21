@@ -2,8 +2,6 @@
 
 **Python • Databricks SQL • Power BI** | Retail customer analytics | Portfolio project
 
-> **Project positioning:** A compact end-to-end analytics demonstration. It follows the more advanced churn, segmentation, campaign and NLP projects in the main portfolio.
-
 ## Business question
 How can a retail business use customer shopping records to understand purchase behaviour, evaluate subscription and discount patterns, and prioritise product and customer strategies?
 
