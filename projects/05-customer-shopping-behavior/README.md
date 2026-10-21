@@ -34,7 +34,11 @@ How can a retail business use customer shopping records to understand purchase b
 
 ## Dashboard
 
-The Power BI report includes three KPI cards, category and age-group purchase-value/count visuals, subscription breakdown, and four slicers. **The latest PBIX and dashboard screenshot are supplied in the accompanying downloadable project package; their binary files have not yet been uploaded to GitHub.**
+The Power BI report includes three KPI cards, category and age-group purchase-value/count visuals, subscription breakdown, and four slicers. The editable [Power BI dashboard](dashboard/Customer_Behavior_Analysis_Dashboard.pbix) and [PNG preview](dashboard/dashboard_preview.png) are uploaded in this repository.
+
+![Customer Shopping Behaviour Power BI dashboard preview](dashboard/dashboard_preview.png)
+
+*The screenshot is from the earlier reference report; the linked PBIX is the latest uploaded dashboard. Download the PBIX and open it in Power BI Desktop to explore the interactive report.*
 
 ## Repository files
 
@@ -42,8 +46,8 @@ The Power BI report includes three KPI cards, category and age-group purchase-va
 |---|---|
 | [`notebooks/customer_behavior_analysis.ipynb`](notebooks/customer_behavior_analysis.ipynb) | Streamlined Databricks notebook (outputs cleared) |
 | [`sql/customer_shopping_analysis.sql`](sql/customer_shopping_analysis.sql) | Clean, commented Databricks SQL queries |
-| Power BI `.pbix` (pending upload) | Editable Power BI report in accompanying project package |
-| Dashboard PNG (pending upload) | Dashboard preview from reference report in accompanying package |
+| [`dashboard/Customer_Behavior_Analysis_Dashboard.pbix`](dashboard/Customer_Behavior_Analysis_Dashboard.pbix) | Editable Power BI report (latest supplied version) |
+| [`dashboard/dashboard_preview.png`](dashboard/dashboard_preview.png) | Screenshot from the earlier reference report |
 | [`reports/Customer_Shopping_Behaviour_Report.md`](reports/Customer_Shopping_Behaviour_Report.md) | Readable report, findings and recommendations (PDF and DOCX in accompanying package) |
 | [`docs/analysis_validation_notes.md`](docs/analysis_validation_notes.md) | Verification, assumptions and limitations (original brief in accompanying package) |
 
