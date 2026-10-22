@@ -36,7 +36,9 @@ How can a retail business use customer shopping records to understand purchase b
 
 The Power BI report includes three KPI cards, category and age-group purchase-value/count visuals, subscription breakdown, and four slicers. [Download the editable Power BI dashboard](dashboard/Customer_Behavior_Analysis_Dashboard.pbix) and open it with Power BI Desktop.
 
-*Dashboard screenshot temporarily unavailable: the incorrect image was removed and will be replaced by a new export from the final Power BI report.*
+![Customer Behaviour Analysis — Power BI Dashboard](dashboard/dashboard_preview.png)
+
+*Dashboard preview from the updated screenshot. Download the `.pbix` above to explore the interactive report in Power BI Desktop.*
 
 ## Repository files
 
@@ -45,6 +47,7 @@ The Power BI report includes three KPI cards, category and age-group purchase-va
 | [`notebooks/customer_behavior_analysis.ipynb`](notebooks/customer_behavior_analysis.ipynb) | Streamlined Databricks notebook (outputs cleared) |
 | [`sql/customer_shopping_analysis.sql`](sql/customer_shopping_analysis.sql) | Clean, commented Databricks SQL queries |
 | [`dashboard/Customer_Behavior_Analysis_Dashboard.pbix`](dashboard/Customer_Behavior_Analysis_Dashboard.pbix) | Editable Power BI report (latest supplied version) |
+| [`dashboard/dashboard_preview.png`](dashboard/dashboard_preview.png) | Preview of the updated Power BI dashboard |
 | [`reports/Customer_Shopping_Behaviour_Report.md`](reports/Customer_Shopping_Behaviour_Report.md) | Readable report, findings and recommendations (PDF and DOCX in accompanying package) |
 | [`docs/analysis_validation_notes.md`](docs/analysis_validation_notes.md) | Verification, assumptions and limitations (original brief in accompanying package) |
 
