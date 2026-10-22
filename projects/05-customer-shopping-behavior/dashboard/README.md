@@ -3,11 +3,9 @@
 The **Customer Shopping Behaviour Dashboard** is now available in this folder:
 
 - [Open / download the Power BI file](Customer_Behavior_Analysis_Dashboard.pbix)
-- [View the dashboard screenshot](dashboard_preview.png)
+- Dashboard screenshot: **pending replacement** (the incorrect preview has been removed)
 
-![Customer Shopping Behaviour dashboard](dashboard_preview.png)
-
-*The screenshot comes from the earlier reference report; the PBIX is the latest dashboard uploaded for this project. Open the PBIX in Power BI Desktop for the editable, interactive report.*
+*The PBIX is the latest dashboard uploaded for this project. Open it in Power BI Desktop for the editable, interactive report.*
 
 ## Dashboard contents
 
