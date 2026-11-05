@@ -54,7 +54,7 @@ Clothing contributed 1,737 of the 3,900 purchase records and the largest share o
 | Yes | 1,053 | $62,645 | $59.49 |
 | No | 2,847 | $170,436 | $59.87 |
 
-The mean purchase difference is only $0.38 and is in the opposite direction from an assumed subscriber spending premium. The available snapshot does not justify a claim that subscriptions improve spending.
+The mean purchase difference is only $0.38 and is in the opposite direction from an assumed subscriber spending premium. 
 
 ### 4.3 Discount usage
 **1,677 of 3,900 records (43.0%)** indicate a discount. The highest observed item-level discount application rates are **Hat 50.00%; Sneakers 49.66%; Coat 49.07%; Sweater 48.17%; Pants 47.37%**. These figures measure whether a purchase was discounted, not discount depth, incremental lift or return on promotion.
@@ -68,7 +68,7 @@ The average recorded purchase amount was **$60.48 for Express** shipping versus 
 The recorded purchase amount was **$157,890** among male-labelled records and **$75,191** among female-labelled records. Young customers (dataset quartile 18–31) contributed **$62,143**, the highest age-group recorded value. Purchase-history proxy labels classified 83 as *New*, 701 as *Returning* and 3,116 as *Loyal*; these are rule-based categories, not validated loyalty outcomes.
 
 ## 5. Dashboard deliverable
-The authored Power BI dashboard contains three KPI cards, a subscription split, category and age-group charts of purchase value and purchase counts, and filters for subscription status, gender, category and shipping type. Count-based visuals use **Count of Customer ID**, not Sum. The most recently submitted PBIX is the intended final editable dashboard; its binary file must be uploaded separately to GitHub.
+The authored Power BI dashboard contains three KPI cards, a subscription split, category and age-group charts of purchase value and purchase counts, and filters for subscription status, gender, category and shipping type. Count-based visuals use **Count of Customer ID**.
 
 ## 6. Recommendations and KPIs
 | Priority | Recommendation | Success measure |
@@ -80,8 +80,6 @@ The authored Power BI dashboard contains three KPI cards, a subscription split, 
 
 These are proposals for future measurement, **not** verified effects of the interventions.
 
-## 7. Limitations
-The data source does not establish a representative sample of real retail customers. Transaction dates, item quantities, contribution margins, discount values, acquisition costs and controlled experimental results are unavailable. Recorded purchase value is not validated net revenue. All findings are descriptive, and the one-record-per-ID snapshot cannot establish longitudinal loyalty, customer lifetime value or the causal influence of discounts, subscriptions and shipping.
 
 ## 8. Reproducibility
 The repository contains a streamlined notebook and Databricks SQL queries. The notebook requires a valid `customer_shopping_behavior.csv` data path and an accessible Databricks environment. The original CSV is not included. Source-based analysis and reconciliation notes are in `docs/analysis_validation_notes.md`.
