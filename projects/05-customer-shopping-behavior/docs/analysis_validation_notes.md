@@ -11,4 +11,4 @@ The project is grounded in the submitted Databricks Python/SQL notebook and Powe
 - The original CSV was not separately supplied for publication. Run the notebook after providing a CSV copy to which you hold publication/use rights.
 - This is descriptive, cross-sectional data with no transaction timestamps, profit margins, discount amounts, or observed longitudinal purchase histories; causal or retention claims are not warranted.
 
-**Binary assets pending for GitHub:** updated Power BI PBIX, preview PNG, PDF/DOCX report and source business brief are present in the project ZIP supplied with this work but have not been uploaded via the GitHub text-file connector.
+**GitHub deliverables:** a Power BI `.pbix` file and a dashboard preview PNG are present under `dashboard/`. The source notebook, SQL queries and written results are also provided in this repository. Before presenting an updated Power BI report, verify that the GitHub `.pbix` and preview PNG reflect the same saved dashboard version. The PDF/DOCX report and source business brief are not included in this repository.
