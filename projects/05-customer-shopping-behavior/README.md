@@ -38,7 +38,7 @@ The Power BI report includes three KPI cards, category and age-group purchase-va
 
 ![Customer Behaviour Analysis — Power BI Dashboard](dashboard/dashboard_preview.png)
 
-*Dashboard preview from the updated screenshot. Download the `.pbix` above to explore the interactive report in Power BI Desktop.*
+*The GitHub image is a static preview. The editable `.pbix` supports filtering by subscription status, gender, product category and shipping type. After changing the report locally, refresh both the PBIX and the PNG on GitHub.*
 
 ## Repository files
 
