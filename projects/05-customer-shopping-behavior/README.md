@@ -38,6 +38,10 @@ The Power BI report includes three KPI cards, category and age-group purchase-va
 
 ![Customer Behaviour Analysis — Power BI Dashboard](dashboard/dashboard_preview.png)
 
+**Filtered example** · Male customers buying clothing with Next Day Air shipping (203 customers).
+
+![Filtered customer behaviour dashboard](dashboard/dashboard_filtered.png)
+
 *The GitHub image is a static preview. The editable `.pbix` supports filtering by subscription status, gender, product category and shipping type. After changing the report locally, refresh both the PBIX and the PNG on GitHub.*
 
 ## Repository files
