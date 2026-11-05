@@ -4,7 +4,7 @@ The following assets belong in this folder:
 
 | Filename | Content |
 |---|---|
-| `AdventureWorks_Sales_Returns_Dashboard.pbix` | Native editable Power BI report |
+| `Adventure works dash board.pbix` | Native editable Power BI report |
 | `dashboard_preview.png` | Executive sales-and-returns dashboard screenshot |
 | `data_model.png` | Power BI data model and relationship diagram |
 
