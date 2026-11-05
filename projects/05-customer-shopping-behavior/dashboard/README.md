@@ -7,9 +7,12 @@ The **Customer Shopping Behaviour Dashboard** is now available in this folder:
 
 ![Customer Behaviour Analysis — Power BI Dashboard](dashboard_preview.png)
 
-*The PBIX is the latest dashboard uploaded for this project. Open it in Power BI Desktop for the editable, interactive report.*
+*The `.pbix` is the editable report; the PNG is a static preview and will not update automatically when the local Power BI report changes. Open the report in Power BI Desktop to test slicer interactions. Keep the uploaded PBIX and preview image in sync.*
 
 ## Dashboard contents
+
+This is an interactive, one-page **Power BI Desktop** report backed by data prepared in Python and Databricks SQL. Filters include subscription status, gender, product category and shipping type.
+
 
 - 3,900 purchase records and average spend of $59.76
 - 3.75 average review rating after imputation
