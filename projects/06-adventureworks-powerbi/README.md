@@ -26,13 +26,14 @@ These are values shown in the supplied Power BI screenshot, **not independently 
 
 ## Files
 
-The following deliverables have been prepared locally and are intended for this project directory:
+- [Open the editable Power BI report](dashboard/Adventure%20works%20dash%20board.pbix)
+- [View the data model](dashboard/Screenshot%202026-11-05%20170405.png)
 
-- `dashboard/AdventureWorks_Sales_Returns_Dashboard.pbix` — native editable Power BI report.
-- `dashboard/dashboard_preview.png` — executive dashboard overview.
-- `dashboard/data_model.png` — relationships and lookup-table model view.
+The PBIX and model screenshot are uploaded. The executive-dashboard screenshot has not yet been added to this repository.
 
-**Publication status:** The GitHub documentation is published first. The binary PBIX and PNG files are not yet confirmed uploaded; these paths will become working links once the three assets are added to the `dashboard/` folder.
+### Data model
+
+![AdventureWorks Power BI data model](dashboard/Screenshot%202026-11-05%20170405.png)
 
 ## Interpretation notes
 
