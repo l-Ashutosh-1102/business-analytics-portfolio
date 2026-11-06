@@ -1,13 +1,10 @@
 # AdventureWorks Power BI Dashboard Assets
 
-The following assets belong in this folder:
-
-| Filename | Content |
+| Asset | Content |
 |---|---|
-| `Adventure works dash board.pbix` | Native editable Power BI report |
-| `dashboard_preview.png` | Executive sales-and-returns dashboard screenshot |
-| `data_model.png` | Power BI data model and relationship diagram |
+| [Power BI report](Adventure%20works%20dash%20board.pbix) | Native editable report |
+| [Data model screenshot](Screenshot%202026-11-05%20170405.png) | Relationships and lookup tables |
 
-**Upload status:** The project description is published; these binary files have been prepared but are not yet confirmed present on GitHub. Use **Add file → Upload files** in this directory to upload the three files.
+These two assets are uploaded. An executive-dashboard screenshot is not yet included.
 
 [Back to project overview](../README.md)
